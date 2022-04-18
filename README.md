@@ -1,6 +1,6 @@
-# netflix_clone
+# netflix_ui_clone
 
-A netflix clone
+A netflix ui clone
 
 ## Getting Started
 
